@@ -4,7 +4,7 @@ Project carried out using JavaFX. Implementation and development of a solution r
 
 ### Folder Organization
 
-The project contains files for both the backend and frontend of the application, featuring different logins for various users, including athletes, coaches, administrators, psychologists, etc.
+The project is contained in the folder **JAVAFX-VolleyStats.zip**, which includes files for both the backend and frontend of the application, featuring different logins for various users, including athletes, coaches, administrators, psychologists, etc.
 
 ### How to Run
 
